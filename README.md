@@ -1,13 +1,3 @@
-# Character-Level-Recurrent-Neural-Networks-Trained-on-Various-Datasets-for-Writing-Style-Replication
----
-title: "Character-Level Recurrent Neural Networks Trained on Various Datasets for Writing Style Replication"
-author: "WonJae Lee"
-email: "wolee@ucsd.edu"
-affiliation: "University of California, San Diego"
-editor: "N/A"
-firstpageno: 1
----
-
 # Character-Level Recurrent Neural Networks Trained on Various Datasets for Writing Style Replication
 
 ## WonJae Lee
